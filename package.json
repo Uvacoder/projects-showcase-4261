@@ -10,13 +10,13 @@
   "author": "Jorge Reyes <reyestrevjorge@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "parcel": "^2.0.0-rc.0"
+    "parcel": "^2.8.3"
   },
   "devDependencies": {
-    "@parcel/transformer-image": "2.0.0-rc.0",
-    "@parcel/transformer-pug": "2.0.0-rc.0",
-    "@parcel/transformer-sass": "2.0.0-rc.0",
-    "pug": "^3.0.1",
-    "sass": "^1.26.9"
+    "@parcel/transformer-image": "2.8.3",
+    "@parcel/transformer-pug": "2.8.3",
+    "@parcel/transformer-sass": "2.8.3",
+    "pug": "^3.0.2",
+    "sass": "^1.58.2"
   }
 }
