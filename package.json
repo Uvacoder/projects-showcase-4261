@@ -1,13 +1,13 @@
 {
-  "name": "reyes",
+  "name": "uvacoder",
   "version": "1.0.0",
-  "description": "Personal Webpage",
+  "description": "Projects Showcase",
   "scripts": {
     "start": "parcel src/index.pug",
     "build": "parcel build src/index.pug --dist-dir docs"
   },
-  "repository": "https://github.com/imreyesjorge/reyes",
-  "author": "Jorge Reyes <reyestrevjorge@gmail.com>",
+  "repository": "https://github.com/uvacoder/uva-projects-showcase-4303",
+  "author": "Alec C <uvacoder@proton.me>",
   "license": "MIT",
   "dependencies": {
     "parcel": "^2.8.3"
