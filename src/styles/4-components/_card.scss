@@ -42,7 +42,7 @@
     height: 100%;
 
     object-fit: cover;
-    filter: brightness(70%);
+    filter: brightness(95%);
   }
 
   &__icon {
@@ -54,7 +54,7 @@
   }
 
   &__title {
-    color: white;
+    color: $primary;
     font-size: 1.5rem;
     text-shadow: 0 0 12px rgba(black, 0.5);
 
